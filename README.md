@@ -2,12 +2,12 @@
 #checker-app
 #WSGHACKATHON2018 - Team I Know You
 
-///////////////////////////////////////////////////////////////////////////////////
+
 VCHECKER-APP, WRITE A BETTER JOB AD, GET A BETTER CANDIDATE
 ---
 a web application which helps HR professional craft better job placing so that
 job seekers and job offerers have better matching through a better job description.
-///////////////////////////////////////////////////////////////////////////////////
+---
 
 ## Step 1
 ![image-1](https://user-images.githubusercontent.com/22993048/45311713-8226ce00-b55c-11e8-855b-775f386daeef.jpg)
